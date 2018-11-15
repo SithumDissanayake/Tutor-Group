@@ -1,0 +1,21 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+
+.w3-white:hover, a:hover{
+	-webkit-transition-duration: 1s;
+	transition-duration: 1s;
+	background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+
+	border-width: 10px;
+	border-radius: 25px;
+	text-decoration: none;
+}
+
+a{
+	text-decoration: none;
+}
+/*
+footer{
+position:fixed;
+bottom:0;
+}
+*/
